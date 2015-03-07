@@ -68,7 +68,7 @@ plot(range_power_consDF$DateTime,range_power_consDF$Global_active_power,
 #-------------------
 
 plot(range_power_consDF$DateTime,range_power_consDF$Voltage,
-     ylab="voltage",
+     ylab="Voltage",
      xlab="datetime",
      yaxt="n",
      type = "l")
