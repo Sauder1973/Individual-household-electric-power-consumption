@@ -1,5 +1,5 @@
 ### Exploratory Data Analysis - March 6, 2015
-### Plot2.R
+### Plot4.R
 
 library(data.table)
 library(sqldf)
@@ -131,5 +131,3 @@ axis(2,at = seq(0, 0.5, by =0.1))
 
 
 dev.off()
-dev.off()
-

@@ -50,4 +50,4 @@ hist(range_power_consDF$Global_active_power,
                 col=c("red")
                 )
 dev.off()
-dev.off()
+

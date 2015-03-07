@@ -59,5 +59,3 @@ plot(range_power_consDF$DateTime,range_power_consDF$Global_active_power,
 
 
 dev.off()
-dev.off()
-

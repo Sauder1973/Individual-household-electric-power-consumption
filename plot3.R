@@ -1,5 +1,5 @@
 ### Exploratory Data Analysis - March 6, 2015
-### Plot2.R
+### Plot3.R
 
 library(data.table)
 library(sqldf)
@@ -89,5 +89,3 @@ legend('topright',
 
 
 dev.off()
-dev.off()
-
